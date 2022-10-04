@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/payalraghuvanshi09/kathak.git/static/css/main.6a63b429.css",
+    "main.js": "/payalraghuvanshi09/kathak.git/static/js/main.6ae467c2.js",
+    "static/media/Yellow logo.png": "/payalraghuvanshi09/kathak.git/static/media/Yellow logo.0eb8fcde0082c2c37f95.png",
+    "index.html": "/payalraghuvanshi09/kathak.git/index.html",
+    "main.6a63b429.css.map": "/payalraghuvanshi09/kathak.git/static/css/main.6a63b429.css.map",
+    "main.6ae467c2.js.map": "/payalraghuvanshi09/kathak.git/static/js/main.6ae467c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a63b429.css",
+    "static/js/main.6ae467c2.js"
+  ]
+}
