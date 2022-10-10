@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "proxy": "http://localhost:8000",
   "private": true,
-  "homepage": "https://github.com/payalraghuvanshi09/kathak.git",
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
     "@emotion/core": "^11.0.0",
