@@ -22,8 +22,8 @@ function Footer() {
             <h4>Useful Links</h4>
             <br/>
             <ul>
-              <li> <Link href="#">Home</Link></li>
-              <li> <Link href="#">About us</Link></li>
+              <li> <Link href="/">Home</Link></li>
+              <li> <Link href="/about">About us</Link></li>
               <li> <Link href="#">Services</Link></li>
               <li> <Link href="#">Terms of service</Link></li>
               <li> <Link href="#">Privacy policy</Link></li>
