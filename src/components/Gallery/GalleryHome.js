@@ -20,8 +20,8 @@ function GalleryHome() {
                                 <img src="assets/img/gallery/gallery-1.jpg" className="img-fluid" alt="" />
                                 <div className="member-info">
                                     <div className="member-info-content">
-                                        <h4>Walter White</h4>
-                                        <span>Master Chef</span>
+                                        <h4>Gallery</h4>
+                                        {/* <span>Master Chef</span> */}
                                     </div>
                                    
                                 </div>
@@ -33,8 +33,8 @@ function GalleryHome() {
                                 <img src="assets/img/gallery/gallery-2.jpg" className="img-fluid" alt="" />
                                 <div className="member-info">
                                     <div className="member-info-content">
-                                        <h4>Sarah Jhonson</h4>
-                                        <span>Patissier</span>
+                                    <h4>Gallery</h4>
+                                        {/* <span>Patissier</span> */}
                                     </div>
                                 </div>
                             </div>
@@ -45,8 +45,8 @@ function GalleryHome() {
                                 <img src="assets/img/gallery/gallery-3.jpg" className="img-fluid" alt="" />
                                 <div className="member-info">
                                     <div className="member-info-content">
-                                        <h4>William Anderson</h4>
-                                        <span>Cook</span>
+                                    <h4>Gallery</h4>
+                                        {/* <span>Cook</span> */}
                                     </div>
                                    
                                 </div>
