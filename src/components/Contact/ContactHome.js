@@ -96,7 +96,7 @@ function ContactHome ()  {
                         <h4>Open Hours:</h4>
                         <p>
                         Monday-Saturday:<br/>
-                        11:00 AM - 2300 PM
+                        11:00 AM - 6:00 PM
                         </p>
                     </div>
 
